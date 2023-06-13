@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mich @developwithmich
+- 👨🏼‍💻 I’m a junior front-end developer 
+- 💡 I'll upload all the codes from my instagram profile in here
+- 📫 Follow me on instagram! @devwithmich
